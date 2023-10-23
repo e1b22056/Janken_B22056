@@ -1,1 +1,1 @@
-# Janken_B22056x
+# Janken_B22056
